@@ -3,7 +3,7 @@
 ### Source:
 Whitehouse, D., 2004. Sunspots reaching 1,000-year high. BBC News. [online] 6 Jul. Available at: <http://news.bbc.co.uk/2/hi/science/nature/3869753.stm> [Accessed 14 Feb. 2021].
 
-## Article Summary
+## Summary of the Claim
 This article discusses the increasing activity of the Sun in the last 1000 years. It begins with an update on scientific evidence collected from Greenland Ice Cores by scientists from the Institute for Astronomy in Zurich. The scientists who performed this analysis looked at concentrations of a particular beryllium isotope within the cores created by cosmic rays reaching the Earth’s surface. Cosmic rays are in turn influenced by the strength of the solar wind, which itself varies with the sunspot cycle. The scientists involved reported that over the last century, the number of sunspots rose at the same time that the Earth’s climate became progressively warmer. 
 
 Dr. Whitehouse, the author and a science editor for BBC, proceeds to discuss historical monitoring of sunspot numbers, which appear to fluctuate in 11-year cycles and change the Sun’s activity. He discusses the “Little Ice Age”, a prolonged cold weather event that occurred between 1645 and 1715 and which coincided with the observation of fewer sunspots during this time. The article concludes with a discussion of the striking increase in solar activity over the past 1,150 years, and especially that present in the last 60 years. This increase in solar activity is said to have had a considerable indirect influence on the global climate in the past, although anthropogenic emissions are “amplifying the Sun’s latest attempt to warm the Earth”.
