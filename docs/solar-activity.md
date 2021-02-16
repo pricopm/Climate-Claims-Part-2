@@ -14,9 +14,14 @@ Evidence suggests that changes in solar activity between 1880 and 1980 have acco
 
 ### References
 Engels, S. and Geel, B. van, 2012. The effects of changing solar activity on climate: contributions from palaeoclimatological studies. Journal of Space Weather and Space Climate, 2, p.A09.
+
 Laut, P., 2003. Solar activity and terrestrial climate: an analysis of some purported correlations. Journal of Atmospheric and Solar-Terrestrial Physics, 65(7), pp.801–812.
+
 Mallard, J., 2010. Engaging students in Social Judgment Theory. Communication Teacher, 24(4), pp.197–202.
+
 Muñoz-Jaramillo, A. and Vaquero, J.M., 2019. Visualization of the challenges and limitations of the long-term sunspot number record. Nature Astronomy, 3(3), pp.205–211.
+
 Solomon, S.C., Liu, H.-L., Marsh, D.R., McInerney, J.M., Qian, L. and Vitt, F.M., 2019. Whole Atmosphere Climate Change: Dependence on Solar Activity. Journal of Geophysical Research: Space Physics, 124(5), pp.3799–3809.
+
 Stauning, P., 2013. Reduced Solar Activity Disguises Global Temperature Rise. Atmospheric and Climate Sciences, [online] 2014. Available at: <http://www.scirp.org/journal/PaperInformation.aspx?PaperID=41752> [Accessed 16 Feb. 2021].
 
